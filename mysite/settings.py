@@ -25,7 +25,7 @@ SECRET_KEY = '$c1ou(wxqng#srm-agc71oxlt96hv!9kxuz4db!6uxyq0dz83f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [Aileen.pythonanywhere.com]
 
 
 # Application definition
